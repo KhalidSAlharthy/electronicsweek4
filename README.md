@@ -2,9 +2,9 @@
 
 1-make a latching power switch circuit with auto power off and on .
 
-In Process
+https://github.com/KhalidSAlharthy/Auto-On-Off-Latching-Power-Circuit/tree/main
 
-2- design and programming of  digital and analog sensor
+2- design and programming of digital and analog sensor
 
 Digital Sensor:
 
